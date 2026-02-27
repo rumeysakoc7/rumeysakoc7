@@ -12,6 +12,7 @@
 - C#
 - Java
 - SQL Server
+- Python
 - Arduino
 - ONNX
 - Windows Forms
