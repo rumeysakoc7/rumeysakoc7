@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Rümeysa Koç 👋
 
-<!--
-**rumeysakoc7/rumeysakoc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming Graduate  
+🎓 Computer Engineering Student  
 
-Here are some ideas to get you started:
+💻 I develop software and embedded system projects using C# and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies
+
+- C#
+- Java
+- SQL Server
+- Arduino
+- ONNX
+- Windows Forms
+
+---
+
+## 🚀 Projects
+
+### 🌱 FloraGuard
+Smart plant monitoring and irrigation system using C#, Arduino and Artificial Intelligence.
+
+Features:
+- Soil moisture monitoring
+- Automatic irrigation
+- Plant disease detection
+- ONNX AI model integration
+
+---
+
+### 🏫 KampusArena
+Product selling and rental automation system developed with C# Windows Forms.
+
+Features:
+- Product management
+- Rental system
+- Payment tracking
+- User management
+
+---
+
+## 📫 Contact
+
+LinkedIn:  
+https://linkedin.com/in/rumeysakoc7
