@@ -3,7 +3,7 @@
 🎓 Computer Programming Graduate  
 🎓 Computer Engineering Student  
 
-💻 I develop software and embedded system projects using C# and Java.
+💻 I develop software and embedded system projects focused on automation and IoT.
 
 ---
 
