@@ -1,13 +1,13 @@
-# Hi, I'm Rümeysa Koç 👋
+# Hi, I'm Rümeysa Koç 
 
 🎓 Computer Programming Graduate  
 🎓 Computer Engineering Student  
 
-💻 I develop software and embedded system projects focused on automation and IoT.
+ I develop software and embedded system projects focused on automation and IoT.
 
 ---
 
-## 🔧 Technologies
+##  Technologies
 
 - C#
 - Java
@@ -19,9 +19,9 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🌱 FloraGuard
+###  FloraGuard
 Smart plant monitoring and irrigation system using C#, Arduino and Artificial Intelligence.
 
 Features:
@@ -32,7 +32,7 @@ Features:
 
 ---
 
-### 🏫 KampusArena
+###  KampusArena
 Product selling and rental automation system developed with C# Windows Forms.
 
 Features:
@@ -43,7 +43,7 @@ Features:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 LinkedIn:  
 https://linkedin.com/in/rumeysakoc7
