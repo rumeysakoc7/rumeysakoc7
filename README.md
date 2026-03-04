@@ -3,8 +3,8 @@
 Computer Programming Graduate
 Computer Engineering Student
 
-Interested in Artificial Intelligence, IoT systems and automation technologies.
-I develop software and embedded system projects using C#, Java, Python and Arduino.
+Interested in Artificial Intelligence, IoT systems, robotics and automation technologies.
+I develop software and embedded system projects using C#, Java, Python, Arduino and computer vision.
 
 ---
 
