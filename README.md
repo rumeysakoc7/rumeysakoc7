@@ -1,9 +1,10 @@
 # Hi, I'm Rümeysa Koç 
 
-🎓 Computer Programming Graduate  
-🎓 Computer Engineering Student  
+Computer Programming Graduate
+Computer Engineering Student
 
- I develop software and embedded system projects focused on automation and IoT.
+Interested in Artificial Intelligence, IoT systems and automation technologies.
+I develop software and embedded system projects using C#, Java, Python and Arduino.
 
 ---
 
